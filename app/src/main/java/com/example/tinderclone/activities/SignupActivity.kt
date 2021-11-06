@@ -52,4 +52,5 @@ class SignupActivity : AppCompatActivity() {
         fun newIntent(context: Context?)= Intent(context,SignupActivity::class.java)
     }
 
+
 }

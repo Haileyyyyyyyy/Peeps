@@ -97,4 +97,6 @@ class TinderActivity : AppCompatActivity() {
 
 
 
+    //zzzzzzzzzzz
+
 }

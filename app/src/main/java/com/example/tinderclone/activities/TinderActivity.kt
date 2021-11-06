@@ -95,4 +95,6 @@ class TinderActivity : AppCompatActivity() {
         fun newIntent(context: Context?)= Intent(context,TinderActivity::class.java)
     }
 
+
+
 }
